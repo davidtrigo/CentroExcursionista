@@ -5,7 +5,7 @@ Nuestro centro excursionista está formado por secciones (senderismo, escalada, 
 
 
 
-![diseño bbdd](img\bbdd.PNG "diseño bbdd")
+![diseño bbdd](https://github.com/davidtrigo/CentroExcursionista/blob/master/img/bbdd.PNG "diseño bbdd")
 
 
 Hemos decidido implementar un API Restful para que pueda acceder a los datos desde nuestra aplicación de escritorio actual, pero también desde la próxima aplicación web que implementaremos y desde una futura APP para dispositivos móviles.
