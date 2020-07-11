@@ -28,8 +28,7 @@ $db = [
 };
 
 $basicAuth = new Tuupola\Middleware\HttpBasicAuthentication([
-    "users" => 
-    [
+    "users" =>[
         $users["user"] => $users["password"] 
     ]
 ]);
