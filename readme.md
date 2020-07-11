@@ -1,6 +1,6 @@
 Para las pruebas de la aplicación se necesita lo siguiente
 
-Instalar commoser
+Instalar composer
 
 https://getcomposer.org/download/
 
