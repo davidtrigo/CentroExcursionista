@@ -11,7 +11,8 @@ _Windows_
 
 ### Instalación 🔧
 
-- Abra la consola y directorio raiz del proyecto y ejecute:
+- Abra la consola dirijase a  ```http://localhost/[directorio_proyecto]/api/ ```  y ejecute:
+
 ```composer install```
 
 ## Ejecutando las pruebas ⚙️
