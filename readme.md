@@ -17,7 +17,7 @@ _Windows_
 
 ## Ejecutando las pruebas ⚙️
 -  Arranca el servidor WAMP
-- Ve a  ```http://localhost/[directorio_proyecto]/api/ ```
+- Ve a  ```http://localhost/[directorio_proyecto]/ ```
  
 - Para hacer hacer las peticiones HTTP se utilzará la herramienta Postman. Como usar [Postman](https://dominicode.com/postman-tutorial-espanol/)  
  ## API 📖
